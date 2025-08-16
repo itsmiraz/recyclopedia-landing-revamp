@@ -3,7 +3,6 @@ import Hero from "./components/Hero";
 import HowItWorks from "./components/HowItWorks";
 import Features from "./components/Features";
 import ImpactStats from "./components/ImpactStats";
-// import Integration from "./components/Integration";
 import WhyChooseUs from "./components/WhyChooseUs";
 import Testimonials from "./components/Testimonials";
 import Footer from "./components/Footer";
